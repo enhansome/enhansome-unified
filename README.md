@@ -2,7 +2,7 @@
 
 # awesome unified with stars
 
-[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,020 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29
+[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,021 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29
 
 > A curated list of awesome **[unified][]** resources.
 
@@ -21,7 +21,7 @@ where plugins do the heavy lifting.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,020 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Repository.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,021 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Repository.
 * [collective](https://github.com/unifiedjs/collective) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-26 - Collective governance docs.
 * [unifiedjs.com](https://unifiedjs.com) - Website.
 
@@ -35,9 +35,9 @@ where plugins do the heavy lifting.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 8,975 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-01 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 8,976 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-01 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
-* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,244 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
+* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,245 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 77 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
 
 ## Related projects
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
