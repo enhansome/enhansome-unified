@@ -124,7 +124,7 @@
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8976
+            "stars": 8977
           }
         },
         {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T15:11:35.743Z",
+    "last_updated": "2026-08-15T14:43:44.222Z",
     "original_repository": "unifiedjs/awesome-unified",
     "original_repository_sha": "3d3b4632dda6efa72affbbc88eaddfd9bb3d73c6",
     "enhanced_repository": "enhansome/enhansome-unified",
