@@ -35,9 +35,9 @@ where plugins do the heavy lifting.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 8,977 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-01 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 8,976 | 🐛 11 | 🌐 JavaScript | 📅 2026-07-01 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
-* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,245 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
+* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,246 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 77 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
 
 ## Related projects
@@ -50,7 +50,7 @@ where plugins do the heavy lifting.
 * [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 493 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx) ⭐ 334 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 237 | 🐛 0 | 📅 2024-10-10
-* [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 130 | 🐛 0 | 📅 2024-10-03
+* [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 131 | 🐛 0 | 📅 2024-10-03
 * [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree) ⭐ 125 | 🐛 0 | 📅 2024-10-04
 
 ## License
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

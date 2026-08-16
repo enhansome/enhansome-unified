@@ -124,7 +124,7 @@
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8977
+            "stars": 8976
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2245
+            "stars": 2246
           }
         },
         {
@@ -262,7 +262,7 @@
             "last_commit": "2024-10-03T10:11:01Z",
             "owner": "retextjs",
             "repo": "awesome-retext",
-            "stars": 130
+            "stars": 131
           }
         },
         {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:43:44.222Z",
+    "last_updated": "2026-08-16T14:43:52.631Z",
     "original_repository": "unifiedjs/awesome-unified",
     "original_repository_sha": "3d3b4632dda6efa72affbbc88eaddfd9bb3d73c6",
     "enhanced_repository": "enhansome/enhansome-unified",
