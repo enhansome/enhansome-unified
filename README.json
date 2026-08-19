@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39996248,
             "language": "JavaScript",
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158441931,
             "language": "JavaScript",
             "last_commit": "2026-02-26T09:20:02Z",
             "owner": "unifiedjs",
@@ -35,7 +37,7 @@
       "title": "Official"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60716014,
             "language": "JavaScript",
             "last_commit": "2026-03-26T17:55:17Z",
             "owner": "unifiedjs",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60841884,
             "language": "JavaScript",
             "last_commit": "2025-01-03T14:16:59Z",
             "owner": "unifiedjs",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82923810,
             "language": "JavaScript",
             "last_commit": "2023-08-22T13:58:06Z",
             "owner": "unifiedjs",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67618885,
             "language": "JavaScript",
             "last_commit": "2023-08-30T11:42:27Z",
             "owner": "unifiedjs",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64133866,
             "language": "JavaScript",
             "last_commit": "2023-08-24T16:22:25Z",
             "owner": "unifiedjs",
@@ -111,7 +118,7 @@
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22355214,
             "language": "JavaScript",
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8978
+            "stars": 8980
           }
         },
         {
@@ -134,11 +142,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20461647,
             "language": "JavaScript",
             "last_commit": "2025-02-04T14:37:32Z",
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2435
+            "stars": 2434
           }
         },
         {
@@ -148,11 +157,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52511671,
             "language": "JavaScript",
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2246
+            "stars": 2245
           }
         },
         {
@@ -162,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128550654,
             "language": "PEG.js",
             "last_commit": "2026-07-31T13:30:40Z",
             "owner": "redotjs",
@@ -173,7 +184,7 @@
       "title": "Syntaxes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -182,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40009598,
             "language": null,
             "last_commit": "2026-06-01T16:10:53Z",
             "owner": "syntax-tree",
@@ -196,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39722512,
             "language": "JavaScript",
             "last_commit": "2025-02-04T14:58:30Z",
             "owner": "vfile",
@@ -207,7 +220,7 @@
       "title": "Related projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -216,6 +229,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001210,
             "language": null,
             "last_commit": "2024-10-03T09:29:49Z",
             "owner": "remarkjs",
@@ -230,6 +244,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 143893040,
             "language": null,
             "last_commit": "2024-10-07T09:14:59Z",
             "owner": "mdx-js",
@@ -244,6 +259,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001375,
             "language": null,
             "last_commit": "2024-10-10T13:25:24Z",
             "owner": "rehypejs",
@@ -258,6 +274,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 156001493,
             "language": null,
             "last_commit": "2024-10-03T10:11:01Z",
             "owner": "retextjs",
@@ -272,6 +289,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 188994543,
             "language": null,
             "last_commit": "2024-10-04T11:55:23Z",
             "owner": "syntax-tree",
@@ -281,16 +299,12 @@
         }
       ],
       "title": "Related lists"
-    },
-    {
-      "description": "© Titus Wormer",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:57:08.952Z",
+    "last_updated": "2026-08-19T12:57:11.866Z",
     "original_repository": "unifiedjs/awesome-unified",
+    "original_repository_id": 156001590,
     "original_repository_sha": "3d3b4632dda6efa72affbbc88eaddfd9bb3d73c6",
     "enhanced_repository": "enhansome/enhansome-unified",
     "enhanced_repository_description": null,
