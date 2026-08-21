@@ -42,7 +42,7 @@ where plugins do the heavy lifting.
 
 ## Related projects
 
-* [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,010 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
+* [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,009 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
 * [vfile](https://github.com/vfile/vfile) ⭐ 530 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Virtual files.
 
 ## Related lists
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

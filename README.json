@@ -198,7 +198,7 @@
             "last_commit": "2026-06-01T16:10:53Z",
             "owner": "syntax-tree",
             "repo": "unist",
-            "stars": 1010
+            "stars": 1009
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T14:59:57.192Z",
+    "last_updated": "2026-08-21T14:58:37.861Z",
     "original_repository": "unifiedjs/awesome-unified",
     "original_repository_id": 156001590,
     "original_repository_sha": "3d3b4632dda6efa72affbbc88eaddfd9bb3d73c6",
