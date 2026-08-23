@@ -2,7 +2,7 @@
 
 # awesome unified with stars
 
-[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,022 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29
+[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,023 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29
 
 > A curated list of awesome **[unified][]** resources.
 
@@ -21,7 +21,7 @@ where plugins do the heavy lifting.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,022 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Repository.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,023 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Repository.
 * [collective](https://github.com/unifiedjs/collective) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-26 - Collective governance docs.
 * [unifiedjs.com](https://unifiedjs.com) - Website.
 
@@ -42,7 +42,7 @@ where plugins do the heavy lifting.
 
 ## Related projects
 
-* [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,009 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
+* [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,010 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
 * [vfile](https://github.com/vfile/vfile) ⭐ 530 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Virtual files.
 
 ## Related lists
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
