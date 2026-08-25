@@ -132,7 +132,7 @@
             "last_commit": "2026-07-01T11:01:38Z",
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8983
+            "stars": 8985
           }
         },
         {
@@ -162,7 +162,7 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2247
+            "stars": 2249
           }
         },
         {
@@ -302,7 +302,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:28:10.637Z",
+    "last_updated": "2026-08-25T15:10:12.035Z",
     "original_repository": "unifiedjs/awesome-unified",
     "original_repository_id": 156001590,
     "original_repository_sha": "3d3b4632dda6efa72affbbc88eaddfd9bb3d73c6",
