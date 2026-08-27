@@ -28,7 +28,7 @@ where plugins do the heavy lifting.
 ## Projects
 
 * [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 63 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
-* [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 0 | 🌐 JavaScript | 📅 2025-01-03 - Engine to create CLIs.
+* [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 1 | 🌐 JavaScript | 📅 2025-01-03 - Engine to create CLIs.
 * [unified-stream](https://github.com/unifiedjs/unified-stream) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-22 - Streaming interface.
 * [unified-diff](https://github.com/unifiedjs/unified-diff) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-30 - Ignore unrelated messages in CIs.
 * [unified-engine-gulp](https://github.com/unifiedjs/unified-engine-gulp) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-24 - Engine to create Gulp plugins.
