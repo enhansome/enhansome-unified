@@ -15,8 +15,9 @@
             "last_commit": "2026-04-29T11:25:24Z",
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5023
-          }
+            "stars": 5024
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "unifiedjs",
             "repo": "collective",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         }
       ],
       "title": "Official"
@@ -52,7 +54,8 @@
             "owner": "unifiedjs",
             "repo": "unified-engine",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "unifiedjs",
             "repo": "unified-args",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "unifiedjs",
             "repo": "unified-stream",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "unifiedjs",
             "repo": "unified-diff",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "unifiedjs",
             "repo": "unified-engine-gulp",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         }
       ],
       "title": "Projects"
@@ -133,7 +140,8 @@
             "owner": "remarkjs",
             "repo": "remark",
             "stars": 8987
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "retextjs",
             "repo": "retext",
             "stars": 2436
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -162,8 +171,9 @@
             "last_commit": "2026-06-13T11:25:56Z",
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2250
-          }
+            "stars": 2251
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "redotjs",
             "repo": "redot",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         }
       ],
       "title": "Syntaxes"
@@ -199,7 +210,8 @@
             "owner": "syntax-tree",
             "repo": "unist",
             "stars": 1010
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "vfile",
             "repo": "vfile",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         }
       ],
       "title": "Related projects"
@@ -234,8 +247,9 @@
             "last_commit": "2024-10-03T09:29:49Z",
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 493
-          }
+            "stars": 494
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "mdx-js",
             "repo": "awesome",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "rehypejs",
             "repo": "awesome-rehype",
             "stars": 239
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "retextjs",
             "repo": "awesome-retext",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         },
         {
           "node_type": "item",
@@ -295,14 +312,15 @@
             "owner": "syntax-tree",
             "repo": "awesome-syntax-tree",
             "stars": 125
-          }
+          },
+          "first_seen": "2026-08-28T23:35:08.299Z"
         }
       ],
       "title": "Related lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T23:50:02.626Z",
+    "last_updated": "2026-08-28T23:35:08.299Z",
     "original_repository_info": {
       "archived": false,
       "id": 156001590,
