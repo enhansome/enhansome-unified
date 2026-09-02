@@ -215,11 +215,11 @@
             "id": 22355214,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-07-01T11:01:38Z",
-            "open_issues": 12,
+            "last_commit": "2026-09-01T19:15:11Z",
+            "open_issues": 11,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8993,
+            "stars": 8994,
             "topics": [
               "ast",
               "commonmark",
@@ -302,7 +302,7 @@
             "open_issues": 7,
             "owner": "redotjs",
             "repo": "redot",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "ast",
               "dot",
@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist",
-            "stars": 1010,
+            "stars": 1011,
             "topics": [
               "ast",
               "cst",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T17:53:12.686Z",
+    "last_updated": "2026-09-02T17:57:10.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
