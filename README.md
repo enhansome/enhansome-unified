@@ -2,7 +2,7 @@
 
 # awesome unified with stars
 
-[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,027 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29
+[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,029 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29
 
 > A curated list of awesome **[unified][]** resources.
 
@@ -21,7 +21,7 @@ where plugins do the heavy lifting.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,027 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Repository.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,029 | 🐛 1 | 🌐 JavaScript | 📅 2026-04-29 - Repository.
 * [collective](https://github.com/unifiedjs/collective) ⭐ 72 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-26 - Collective governance docs.
 * [unifiedjs.com](https://unifiedjs.com) - Website.
 
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._

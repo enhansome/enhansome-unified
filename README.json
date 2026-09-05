@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5027,
+            "stars": 5029,
             "topics": [
               "ast",
               "cst",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T17:40:14.174Z",
+    "last_updated": "2026-09-05T16:52:22.099Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
