@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5029,
+            "stars": 5028,
             "topics": [
               "ast",
               "cst",
@@ -219,7 +219,7 @@
             "open_issues": 11,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 8999,
+            "stars": 8998,
             "topics": [
               "ast",
               "commonmark",
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2436,
+            "stars": 2435,
             "topics": [
               "ast",
               "cst",
@@ -370,7 +370,7 @@
             "open_issues": 0,
             "owner": "vfile",
             "repo": "vfile",
-            "stars": 531,
+            "stars": 530,
             "topics": [
               "file",
               "unified",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:57:45.535Z",
+    "last_updated": "2026-09-09T17:52:33.083Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
