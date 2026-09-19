@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2435,
+            "stars": 2436,
             "topics": [
               "ast",
               "cst",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T17:44:12.750Z",
+    "last_updated": "2026-09-19T17:20:01.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
