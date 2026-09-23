@@ -47,7 +47,7 @@ where plugins do the heavy lifting.
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 496 | 🐛 2 | 📅 2024-10-03
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 497 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx) ⭐ 335 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 239 | 🐛 0 | 📅 2024-10-10
 * [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 132 | 🐛 0 | 📅 2024-10-03
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
