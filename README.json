@@ -216,10 +216,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-24T10:45:01Z",
-            "open_issues": 11,
+            "open_issues": 13,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9007,
+            "stars": 9008,
             "topics": [
               "ast",
               "commonmark",
@@ -275,7 +275,7 @@
             "open_issues": 1,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2256,
+            "stars": 2257,
             "topics": [
               "ast",
               "html",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:28:09.375Z",
+    "last_updated": "2026-09-25T18:44:20.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
@@ -542,7 +542,7 @@
       "open_issues": 0,
       "owner": "unifiedjs",
       "repo": "awesome-unified",
-      "stars": 148,
+      "stars": 149,
       "topics": [
         "awesome",
         "awesome-list",
