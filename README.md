@@ -27,17 +27,17 @@ where plugins do the heavy lifting.
 
 ## Projects
 
-* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 64 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
-* [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 2 | 🌐 JavaScript | 📅 2025-01-03 - Engine to create CLIs.
+* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 64 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
+* [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-26 - Engine to create CLIs.
 * [unified-stream](https://github.com/unifiedjs/unified-stream) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-22 - Streaming interface.
 * [unified-diff](https://github.com/unifiedjs/unified-diff) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-30 - Ignore unrelated messages in CIs.
 * [unified-engine-gulp](https://github.com/unifiedjs/unified-engine-gulp) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-24 - Engine to create Gulp plugins.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,008 | 🐛 13 | 🌐 JavaScript | 📅 2026-09-24 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,009 | 🐛 12 | 🌐 JavaScript | 📅 2026-09-24 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
-* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,257 | 🐛 1 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
+* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,259 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 78 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
 
 ## Related projects
@@ -49,7 +49,7 @@ where plugins do the heavy lifting.
 
 * [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx) ⭐ 336 | 🐛 0 | 📅 2024-10-07
-* [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 239 | 🐛 0 | 📅 2024-10-10
+* [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 240 | 🐛 0 | 📅 2024-10-10
 * [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 132 | 🐛 0 | 📅 2024-10-03
 * [awesome syntax-tree](https://github.com/syntax-tree/awesome-syntax-tree) ⭐ 125 | 🐛 0 | 📅 2024-10-04
 
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
