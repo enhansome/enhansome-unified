@@ -219,7 +219,7 @@
             "open_issues": 9,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9010,
+            "stars": 9011,
             "topics": [
               "ast",
               "commonmark",
@@ -390,7 +390,7 @@
         {
           "node_type": "item",
           "title": "awesome remark",
-          "description": null,
+          "description": "remarkjs/awesome-remark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -416,7 +416,7 @@
         {
           "node_type": "item",
           "title": "awesome mdx",
-          "description": null,
+          "description": "mdx-js/awesome",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -445,7 +445,7 @@
         {
           "node_type": "item",
           "title": "awesome rehype",
-          "description": null,
+          "description": "rehypejs/awesome-rehype",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -471,7 +471,7 @@
         {
           "node_type": "item",
           "title": "awesome retext",
-          "description": null,
+          "description": "retextjs/awesome-retext",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -497,7 +497,7 @@
         {
           "node_type": "item",
           "title": "awesome syntax-tree",
-          "description": null,
+          "description": "syntax-tree/awesome-syntax-tree",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:24:29.737Z",
+    "last_updated": "2026-10-03T05:11:04.611Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
