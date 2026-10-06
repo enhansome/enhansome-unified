@@ -27,27 +27,27 @@ where plugins do the heavy lifting.
 
 ## Projects
 
-* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 64 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
+* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 63 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
 * [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-26 - Engine to create CLIs.
-* [unified-stream](https://github.com/unifiedjs/unified-stream) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-22 - Streaming interface.
 * [unified-diff](https://github.com/unifiedjs/unified-diff) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-30 - Ignore unrelated messages in CIs.
+* [unified-stream](https://github.com/unifiedjs/unified-stream) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-22 - Streaming interface.
 * [unified-engine-gulp](https://github.com/unifiedjs/unified-engine-gulp) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-24 - Engine to create Gulp plugins.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,011 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,013 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
-* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,260 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
+* [rehype](https://github.com/rehypejs/rehype) ⭐ 2,259 | 🐛 2 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 78 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
 
 ## Related projects
 
-* [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,012 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
-* [vfile](https://github.com/vfile/vfile) ⭐ 532 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Virtual files.
+* [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,011 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
+* [vfile](https://github.com/vfile/vfile) ⭐ 531 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Virtual files.
 
 ## Related lists
 
-* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 499 | 🐛 2 | 📅 2024-10-03
+* [awesome remark](https://github.com/remarkjs/awesome-remark) ⭐ 498 | 🐛 2 | 📅 2024-10-03
 * [awesome mdx](https://github.com/transitive-bullshit/awesome-mdx) ⭐ 336 | 🐛 0 | 📅 2024-10-07
 * [awesome rehype](https://github.com/rehypejs/awesome-rehype) ⭐ 240 | 🐛 0 | 📅 2024-10-10
 * [awesome retext](https://github.com/retextjs/awesome-retext) ⭐ 132 | 🐛 0 | 📅 2024-10-03
