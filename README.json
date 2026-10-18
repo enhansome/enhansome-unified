@@ -403,7 +403,7 @@
             "open_issues": 2,
             "owner": "remarkjs",
             "repo": "awesome-remark",
-            "stars": 497,
+            "stars": 498,
             "topics": [
               "awesome",
               "awesome-list",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:20:19.227Z",
+    "last_updated": "2026-10-18T17:26:09.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
