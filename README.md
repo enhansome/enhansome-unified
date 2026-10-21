@@ -35,15 +35,15 @@ where plugins do the heavy lifting.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,021 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
-* [retext](https://github.com/retextjs/retext) ⭐ 2,435 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,023 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
+* [retext](https://github.com/retextjs/retext) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,261 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 78 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
 
 ## Related projects
 
 * [syntax-tree](https://github.com/syntax-tree/unist) ⭐ 1,014 | 🐛 0 | 📅 2026-06-01 - Syntax trees.
-* [vfile](https://github.com/vfile/vfile) ⭐ 533 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Virtual files.
+* [vfile](https://github.com/vfile/vfile) ⭐ 532 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Virtual files.
 
 ## Related lists
 
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
