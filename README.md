@@ -27,7 +27,7 @@ where plugins do the heavy lifting.
 
 ## Projects
 
-* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 63 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
+* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 63 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
 * [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-26 - Engine to create CLIs.
 * [unified-diff](https://github.com/unifiedjs/unified-diff) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-30 - Ignore unrelated messages in CIs.
 * [unified-stream](https://github.com/unifiedjs/unified-stream) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-22 - Streaming interface.
@@ -35,7 +35,7 @@ where plugins do the heavy lifting.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,023 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,024 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,434 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,261 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 78 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._

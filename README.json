@@ -78,7 +78,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-03-26T17:55:17Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "unifiedjs",
             "repo": "unified-engine",
             "stars": 63,
@@ -219,7 +219,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9023,
+            "stars": 9024,
             "topics": [
               "ast",
               "commonmark",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T18:45:52.065Z",
+    "last_updated": "2026-10-22T18:39:11.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
