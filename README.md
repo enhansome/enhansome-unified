@@ -35,7 +35,7 @@ where plugins do the heavy lifting.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,024 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,025 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,261 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 78 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
