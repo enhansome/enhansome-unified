@@ -272,10 +272,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-06-13T11:25:56Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2259,
+            "stars": 2258,
             "topics": [
               "ast",
               "html",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T20:51:25.646Z",
+    "last_updated": "2026-11-05T21:07:45.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
