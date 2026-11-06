@@ -2,7 +2,7 @@
 
 # awesome unified with stars
 
-[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,051 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03
+[<img align="right" alt src="https://raw.githubusercontent.com/unifiedjs/unified/6838c70/logo-square.svg?sanitize=true" width="200">](https://github.com/unifiedjs/unified) ⭐ 5,052 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03
 
 > A curated list of awesome **[unified][]** resources.
 
@@ -21,21 +21,21 @@ where plugins do the heavy lifting.
 
 ## Official
 
-* [unified](https://github.com/unifiedjs/unified) ⭐ 5,051 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Repository.
+* [unified](https://github.com/unifiedjs/unified) ⭐ 5,052 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-03 - Repository.
 * [collective](https://github.com/unifiedjs/collective) ⭐ 73 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-26 - Collective governance docs.
 * [unifiedjs.com](https://unifiedjs.com) - Website.
 
 ## Projects
 
-* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 63 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
-* [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 37 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-26 - Engine to create CLIs.
+* [unified-engine](https://github.com/unifiedjs/unified-engine) ⭐ 64 | 🐛 13 | 🌐 JavaScript | 📅 2026-03-26 - Process multiple files with unified.
+* [unified-args](https://github.com/unifiedjs/unified-args) ⭐ 38 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-26 - Engine to create CLIs.
 * [unified-diff](https://github.com/unifiedjs/unified-diff) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-30 - Ignore unrelated messages in CIs.
 * [unified-stream](https://github.com/unifiedjs/unified-stream) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-22 - Streaming interface.
 * [unified-engine-gulp](https://github.com/unifiedjs/unified-engine-gulp) ⭐ 8 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-24 - Engine to create Gulp plugins.
 
 ## Syntaxes
 
-* [remark](https://github.com/remarkjs/remark) ⭐ 9,041 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
+* [remark](https://github.com/remarkjs/remark) ⭐ 9,042 | 🐛 10 | 🌐 JavaScript | 📅 2026-09-27 - Markdown.
 * [retext](https://github.com/retextjs/retext) ⭐ 2,433 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-04 - Prose.
 * [rehype](https://github.com/rehypejs/rehype) ⭐ 2,258 | 🐛 4 | 🌐 JavaScript | 📅 2026-06-13 - HTML.
 * [redot](https://github.com/redotjs/redot) ⭐ 78 | 🐛 7 | 🌐 PEG.js | 📅 2026-07-31 - Graphviz.
@@ -73,4 +73,4 @@ where plugins do the heavy lifting.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
