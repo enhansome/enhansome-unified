@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5055,
+            "stars": 5054,
             "topics": [
               "ast",
               "cst",
@@ -77,8 +77,8 @@
             "id": 60716014,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-03-26T17:55:17Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-19T19:37:17Z",
+            "open_issues": 2,
             "owner": "unifiedjs",
             "repo": "unified-engine",
             "stars": 64,
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "retextjs",
             "repo": "retext",
-            "stars": 2434,
+            "stars": 2433,
             "topics": [
               "ast",
               "cst",
@@ -275,7 +275,7 @@
             "open_issues": 4,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2261,
+            "stars": 2260,
             "topics": [
               "ast",
               "html",
@@ -429,7 +429,7 @@
             "open_issues": 0,
             "owner": "mdx-js",
             "repo": "awesome",
-            "stars": 336,
+            "stars": 337,
             "topics": [
               "awesome",
               "awesome-list",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T22:09:03.254Z",
+    "last_updated": "2026-11-19T22:17:58.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
