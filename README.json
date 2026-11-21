@@ -336,7 +336,7 @@
             "open_issues": 0,
             "owner": "syntax-tree",
             "repo": "unist",
-            "stars": 1014,
+            "stars": 1015,
             "topics": [
               "ast",
               "cst",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T21:53:02.850Z",
+    "last_updated": "2026-11-21T20:35:47.728Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
