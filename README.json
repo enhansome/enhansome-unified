@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "unifiedjs",
             "repo": "unified",
-            "stars": 5055,
+            "stars": 5054,
             "topics": [
               "ast",
               "cst",
@@ -275,7 +275,7 @@
             "open_issues": 4,
             "owner": "rehypejs",
             "repo": "rehype",
-            "stars": 2260,
+            "stars": 2261,
             "topics": [
               "ast",
               "html",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T01:44:42.212Z",
+    "last_updated": "2026-11-24T23:31:51.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
