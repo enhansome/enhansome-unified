@@ -219,7 +219,7 @@
             "open_issues": 10,
             "owner": "remarkjs",
             "repo": "remark",
-            "stars": 9043,
+            "stars": 9044,
             "topics": [
               "ast",
               "commonmark",
@@ -530,7 +530,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T23:31:51.770Z",
+    "last_updated": "2026-11-25T23:09:54.021Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome unified resources",
